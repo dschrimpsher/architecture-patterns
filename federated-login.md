@@ -1,4 +1,4 @@
-```mermaid
+```
 sequenceDiagram
   autonumber
   participant UA as Browser / Mobile App
